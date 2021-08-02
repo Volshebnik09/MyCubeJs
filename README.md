@@ -51,7 +51,7 @@ body {
     backface-visibility: hidden;
 }
 ```
-position style is important
+position style is important for correct work
 
 backface-visibility: hidden or visible try
 

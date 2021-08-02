@@ -28,6 +28,7 @@ function buildCube(height,posX,posY,speedRotationX =0,speedRotationY = 1,speedRo
     cubeSides.forEach(el =>{
         el.style.height ='inherit';
         el.style.width = 'inherit';
+        el.style.position = "absolute";
     })
     cubeSides[0].style.transform = "rotateX(-90deg) translateZ(-"+height/2+"px)";
     cubeSides[1].style.transform = "rotateX(90deg) translateZ(-"+height/2+"px)";
