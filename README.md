@@ -1,12 +1,11 @@
 # MyCubeJs
  Animated cube on the background
  
-
 ## Setup
 
 html code
 
-```
+```html
 <body>
     <div class="cube-plate">
         <div class="cube">
@@ -36,7 +35,7 @@ html code
 
 Connect css
 
-```
+```css
 body {
     overflow-x: hidden;
 }
@@ -55,7 +54,7 @@ body {
 
 Ok. let's connect js.
 
-```
+```js
 <script src=".../cube.js"></script>
 <scrpit>
 buildCube(height,posX,posY,
@@ -73,7 +72,8 @@ rotateStartX,rotateStartY,rotateStartZ);
 ## More
 
 html code
-```
+
+```html
 <scrpit>
 clip = false 
 <!-- Dragging a cube with the mouse -->
