@@ -1,7 +1,7 @@
 # MyCubeJs
  Animated cube on the background
  |:---------:|
- |![Alt-текст](https://prnt.sc/1iejhzm "Cube")|
+ |![Alt-текст](https://ibb.co/C5FM1Qp "Cube")|
 
 ## Setup
 
