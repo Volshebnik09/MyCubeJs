@@ -43,14 +43,14 @@ body {
     width:100%;   
     height: 100vh;
     position: relative;
-    <!-- position style is important -->
 }
 .cube-side{
     border: 3px solid black;
     backface-visibility: hidden;
-    <!-- backface-visibility: hidden or visible try-->
 }
 ```
+position style is important;
+backface-visibility: hidden or visible try;
 
 Ok. let's connect js.
 
