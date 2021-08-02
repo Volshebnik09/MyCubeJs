@@ -1,9 +1,8 @@
 # MyCubeJs
  Animated cube on the background
 
-HTML setup 
-```
 //html code
+```
 <script src=".../cube.js"></script>
 <scrpit>
 buildCube(height,posX,posY,
@@ -18,8 +17,8 @@ rotateStartX,rotateStartY,rotateStartZ);
 + rotateStartX,rotateStartY,rotateStartZ - in default 0
 
 ## More
-```
 //html code
+```
 <scrpit>
 clip = false 
 <!-- Dragging a cube with the mouse -->
