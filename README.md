@@ -50,7 +50,6 @@ body {
 }
 ```
 position style is important
-
 backface-visibility: hidden or visible try
 
 Ok. let's connect js.
